@@ -1,0 +1,1 @@
+echo -e "\E[H\E[J\E[5;10H\E[31m\E[40mARTEM\E[6;8H\E[47m\E[32mIV-223\E[10;1H\E[0m"
